@@ -90,6 +90,15 @@ All core features were successfully validated.
 
 ---
 
+## Screenshots
+
+![Login](screenshots/login.png)
+![Chat](screenshots/chat.png)
+![Calendar](screenshots/calendar.png)
+![Agenda](screenshots/agenda.png)
+
+---
+
 ## Author
 
 Paula Boix Vilella  
