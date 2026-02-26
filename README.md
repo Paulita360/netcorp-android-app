@@ -1,4 +1,4 @@
-# NetCorp – Corporate Meeting Management App
+# NetCorp 
 
 NetCorp is an Android application developed in Kotlin that allows companies to manage meetings, internal communication and daily planning in a centralized and structured way.
 
