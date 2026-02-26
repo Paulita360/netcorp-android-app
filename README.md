@@ -95,7 +95,7 @@ All core features were successfully validated.
 ![Login](screenshots/login.png)
 ![Chat](screenshots/chat.png)
 ![Calendar](screenshots/calendar.png)
-![Agenda](screenshots/agenda.png)
+![Agenda](screenshots/createMeeting.png)
 
 ---
 
