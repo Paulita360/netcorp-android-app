@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "980174354712",
+    "project_id": "prueba-ba718",
+    "storage_bucket": "prueba-ba718.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980174354712:android:8e7502116b56dd4b00866d",
+        "android_client_info": {
+          "package_name": "net.iesochoa.paulaboixvilella.tfgv1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASOSeqckAlsPt2SzcH-dPeTkgAa-L3GBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
